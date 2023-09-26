@@ -17,6 +17,9 @@
     "nodemailer": "^6.9.2",
     "nodemailer-smtp-transport": "^2.7.4"
   },
+  "engines": {
+    "node": ">=14.20.1"
+  },
   "author": "Sk MAidul Islam",
   "license": "ISC"
 }
